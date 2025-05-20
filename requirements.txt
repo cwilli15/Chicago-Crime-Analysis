@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+plotly
+folium
+geopandas
+shapely
+descartes
+fiona
+contextily
